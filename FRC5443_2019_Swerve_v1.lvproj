@@ -729,8 +729,8 @@ AddOutputFilter chunkFilter
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="RELEASE - 1.0 - Motor Limitter - David G.vi" Type="VI" URL="../../FRC2019_5443_LabLib_DavidG_1.0/RELEASE - 1.0 - Motor Limitter - David G.vi"/>
-			<Item Name="RELEASE - 1.1 - Solenoid 1Button - David G.vi" Type="VI" URL="../../FRC2019_5443_LabLib_DavidG_1.0/RELEASE - 1.1 - Solenoid 1Button - David G.vi"/>
-			<Item Name="RELEASE - 2.0 - Motor Control - David G.vi" Type="VI" URL="../../FRC2019_5443_LabLib_DavidG_1.0/RELEASE - 2.0 - Motor Control - David G.vi"/>
+			<Item Name="RELEASE - 1.1 - Solenoid 1Button - David G.vi" Type="VI" URL="../../5443_FRC_Labview_lib/RELEASE - 1.1 - Solenoid 1Button - David G.vi"/>
+			<Item Name="RELEASE - 2.0 - Motor Control - David G.vi" Type="VI" URL="../../5443_FRC_Labview_lib/RELEASE - 2.0 - Motor Control - David G.vi"/>
 			<Item Name="Reset Yaw.vi" Type="VI" URL="../Reset Yaw.vi"/>
 			<Item Name="Timed Task.vi" Type="VI" URL="../Timed Task.vi"/>
 		</Item>
@@ -750,7 +750,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
